@@ -14,12 +14,12 @@ A simple Snake game implemented in HTML and JavaScript. Control the snake using 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/jeetrico/snake_game.git
    ```
    
 2. **Navigate to the Project Directory**:
    ```bash
-   cd your-repository
+   cd snake_game
    ```
 
 3. **Open `index.html` in a Web Browser**:
