@@ -1,4 +1,5 @@
 # JEET BANERJEE's Snake Game
+![Screenshot](https://github.com/user-attachments/assets/68cb59a6-0136-4db9-9ae7-d2495d04652a)
 
 A simple Snake game implemented in HTML and JavaScript. Control the snake using the arrow keys and try to eat the red apple to grow. The game resets if the snake collides with itself.
 
