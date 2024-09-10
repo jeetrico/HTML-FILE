@@ -22,8 +22,8 @@ A simple Snake game implemented in HTML and JavaScript. Control the snake using 
    cd snake_game
    ```
 
-3. **Open `index.html` in a Web Browser**:
-   You can open `index.html` directly in a web browser to start playing the game.
+3. **Open `SNAKE_GAME.HTML` in a Web Browser**:
+   You can open `SNAKE_GAME.HTML` directly in a web browser to start playing the game.
 
 ## Code Explanation
 
